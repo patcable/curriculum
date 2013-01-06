@@ -228,6 +228,8 @@ the system firmware goes and looks for an image file that contains the boot code
 for stages 1 and 1.5 so that stage 2 can be managed inside of the operating
 system.
 
+.. _kernel-101:
+
 The Kernel and the Ramdisk
 ==========================
 

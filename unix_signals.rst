@@ -43,7 +43,7 @@ can use the kill command from the shell to send the interrupt signal like so:
 
   kill -SIGINT <PID>
 
-You can write a simple program executing the kill system call. A basic example is
+You can write a simple program executing the kill system call. A basic example written in C is
 below:
 
 .. code-block:: c
